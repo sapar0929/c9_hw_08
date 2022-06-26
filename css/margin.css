@@ -45,3 +45,11 @@
 .ml-3 {
     margin-left: 48px;
 }
+
+.mr-auto {
+    margin-right: auto;
+}
+
+.ml-auto {
+    margin-left: auto;
+}
